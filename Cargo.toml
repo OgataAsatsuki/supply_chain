@@ -1,0 +1,8 @@
+[package]
+name = "suppy_chain"
+version = "0.1.0-dev"
+edition = "2021"
+
+
+
+[dependencies]
